@@ -1,4 +1,4 @@
-# myist_project
+# myist_activity
 Virtual design and specificity testing of RPL13A (Ribosomal protein L13a)
 
 # Background
