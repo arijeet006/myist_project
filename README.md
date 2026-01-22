@@ -12,24 +12,28 @@ RPL13A (Ribosomal Protein L13a) is a structural component of the 60S ribosomal s
 	4.	Perform in-silico specificity analysis against the human 
 
 ![Screenshot](https://github.com/arijeet006/myist_activity/blob/9882f384636ab41cc96337ae1ea0b387a1069faa/Screenshot%201.png)
+
   # Methodology
 
 Step 1: Sequence Retrieval
+
 	•	Database: NCBI Gene
 	•	Gene: RPL13A (Ribosomal Protein L13a)
 	•	Organism: Homo sapiens
 	•	Gene ID: 23521
 	•	Reference mRNA: NM_012423.4
 	•	The FASTA sequence of the transcript was used as the PCR template.
-	![Screenshot](https://github.com/arijeet006/myist_activity/blob/1cc48f3ea298ac6f68b3130c75ded5e0ae3b6947/Screenshot%201.png)
-	![Screenshot](https://github.com/arijeet006/myist_activity/blob/1cc48f3ea298ac6f68b3130c75ded5e0ae3b6947/Screenshot%201.png)
-	![Screenshot](https://github.com/arijeet006/myist_activity/blob/3e5e4e69bd82d332706460486a9e1cf8962e7ece/Screenshot%202.png)
-	![Screenshot](https://github.com/arijeet006/myist_activity/blob/7c483d4a53a5de1e4e277396db96c69a6f300908/Screenshot%203.png)
-	![Screenshot](https://github.com/arijeet006/myist_activity/blob/a83198c8ab59c051fb93e20c4a7c1671d75664ba/Screenshot%204.png)
+	
+![Screenshot](https://github.com/arijeet006/myist_activity/blob/1cc48f3ea298ac6f68b3130c75ded5e0ae3b6947/Screenshot%201.png)
+![Screenshot](https://github.com/arijeet006/myist_activity/blob/1cc48f3ea298ac6f68b3130c75ded5e0ae3b6947/Screenshot%201.png)
+![Screenshot](https://github.com/arijeet006/myist_activity/blob/3e5e4e69bd82d332706460486a9e1cf8962e7ece/Screenshot%202.png)
+![Screenshot](https://github.com/arijeet006/myist_activity/blob/7c483d4a53a5de1e4e277396db96c69a6f300908/Screenshot%203.png)
+![Screenshot](https://github.com/arijeet006/myist_activity/blob/a83198c8ab59c051fb93e20c4a7c1671d75664ba/Screenshot%204.png)
 
 Step 2: Primer Design (Primer-BLAST)
 
 Parameters used:
+
 	•	PCR product size: 100–200 bp
 	•	Melting temperature (Tm):
 	•	Minimum: 57°C
