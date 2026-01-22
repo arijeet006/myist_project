@@ -1,11 +1,12 @@
 # myist_activity
 Virtual design and specificity testing of RPL13A (Ribosomal protein L13a)
 
-# Background
+# Introduction
 RPL13A (Ribosomal Protein L13a) is a structural component of the 60S ribosomal subunit and plays a crucial role in protein synthesis. Due to its stable expression across different tissues and experimental conditions, RPL13A is widely used as an internal control (housekeeping gene) in gene expression studies, including qPCR.
 
 # Objectives
-	1.	Retrieve the human RPL13A mRNA sequence from NCBI
+
+	1.	Retrieve the human RPL13A mRNA sequence from NCBI https://www.ncbi.nlm.nih.gov
 	2.	Design specific PCR primers using Primer-BLAST
 	3.	Evaluate primer quality (Tm, GC content, secondary structures)
 	4.	Perform in-silico specificity analysis against the human 
