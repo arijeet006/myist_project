@@ -63,6 +63,7 @@ Melting temp        ~60°C                      ~59°C
 	•	No significant off-target binding detected in the human genome
 	•	No pseudogene or unintended amplification within a 2 kb range
 	•	Low self-complementarity → No primer-dimer formation
+https://github.com/arijeet006/myist_activity/blob/af9a94b945881a07c9ee481926a21a3b4fe11c87/Screenshot%206.png
 
  # Final Specificity Statement
 
