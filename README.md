@@ -64,6 +64,7 @@ Melting temp        ~60°C                      ~59°C
 	•	No pseudogene or unintended amplification within a 2 kb range
 	•	Low self-complementarity → No primer-dimer formation
 https://github.com/arijeet006/myist_activity/blob/af9a94b945881a07c9ee481926a21a3b4fe11c87/Screenshot%206.png
+https://github.com/arijeet006/myist_activity/blob/bd897cb6061cbbe3ec1e20bdcdf37d53fb2f25ca/Screenshot%207.png
 
  # Final Specificity Statement
 
